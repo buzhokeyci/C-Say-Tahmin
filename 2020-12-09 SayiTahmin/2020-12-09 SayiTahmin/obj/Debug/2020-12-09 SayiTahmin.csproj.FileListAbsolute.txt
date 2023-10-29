@@ -1,0 +1,22 @@
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\bin\Debug\2020-12-09 SayiTahmin.exe.config
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\bin\Debug\2020-12-09 SayiTahmin.exe
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\bin\Debug\2020-12-09 SayiTahmin.pdb
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\2020-12-09 SayiTahmin.csprojAssemblyReference.cache
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\_2020_12_09_SayiTahmin.Form1.resources
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\_2020_12_09_SayiTahmin.Properties.Resources.resources
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\2020-12-09 SayiTahmin.csproj.GenerateResource.cache
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\2020-12-09 SayiTahmin.csproj.CoreCompileInputs.cache
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\2020-12-09 SayiTahmin.exe
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\2020-12-09 SayiTahmin.pdb
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\_2020_12_09_SayiTahmin.Form2.resources
+C:\Users\enesm\OneDrive\Masaüstü\BilgeAdam-Tekrar\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\bin\Debug\2020-12-09 SayiTahmin.exe.config
+C:\Users\enesm\OneDrive\Masaüstü\BilgeAdam-Tekrar\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\bin\Debug\2020-12-09 SayiTahmin.exe
+C:\Users\enesm\OneDrive\Masaüstü\BilgeAdam-Tekrar\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\bin\Debug\2020-12-09 SayiTahmin.pdb
+C:\Users\enesm\OneDrive\Masaüstü\BilgeAdam-Tekrar\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\2020-12-09 SayiTahmin.csproj.AssemblyReference.cache
+C:\Users\enesm\OneDrive\Masaüstü\BilgeAdam-Tekrar\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\_2020_12_09_SayiTahmin.Form1.resources
+C:\Users\enesm\OneDrive\Masaüstü\BilgeAdam-Tekrar\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\_2020_12_09_SayiTahmin.Form2.resources
+C:\Users\enesm\OneDrive\Masaüstü\BilgeAdam-Tekrar\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\_2020_12_09_SayiTahmin.Properties.Resources.resources
+C:\Users\enesm\OneDrive\Masaüstü\BilgeAdam-Tekrar\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\2020-12-09 SayiTahmin.csproj.GenerateResource.cache
+C:\Users\enesm\OneDrive\Masaüstü\BilgeAdam-Tekrar\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\2020-12-09 SayiTahmin.csproj.CoreCompileInputs.cache
+C:\Users\enesm\OneDrive\Masaüstü\BilgeAdam-Tekrar\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\2020-12-09 SayiTahmin.exe
+C:\Users\enesm\OneDrive\Masaüstü\BilgeAdam-Tekrar\2020-12-09 SayiTahmin\2020-12-09 SayiTahmin\obj\Debug\2020-12-09 SayiTahmin.pdb
